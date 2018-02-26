@@ -1,3 +1,7 @@
-Number a = input("Enter a number: ")
+A = int(input("Enter a number: "))
 Actions = input("Add or Subtract? ")
-Number b = input("Enter another number: ")
+B = int(input("Enter another number: "))
+if Actions == "Add":
+    print(A + B)
+if Actions == "Subtract":
+    print(A - B)
