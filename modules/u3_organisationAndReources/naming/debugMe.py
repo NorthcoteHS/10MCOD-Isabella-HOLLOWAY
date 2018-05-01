@@ -9,10 +9,10 @@ Desc:   Answers yes or no to any question.
 question = print('Ask me anything!')
 
 # Check for special input.
-if  question = 'Quit'
+if  question = ('Quit')
     print('Goodbye.)
-else if question == 'Hi' or 'Hello':
-    print('What's up?')
+else if question == ('Hi') or ('Hello'):
+    print("What's up?")
 
 # Answer yes or no randomly.
 else:
@@ -21,4 +21,4 @@ if num == "1":
     print("Yes!")
 if num = 2:
     "No"
-done
+print("done")
