@@ -1,7 +1,7 @@
 """
 Prog:   Gretting's to the User
-Name:   Student Name
-Date:   12/03/18
+Name:   Isabella Holloway
+Date:   01/05/18
 Desc:   Says hello to the user.
 """
 

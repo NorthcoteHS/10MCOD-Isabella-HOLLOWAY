@@ -1,3 +1,10 @@
+"""
+Prog: Circle Calculator
+Name: Isabella Holloway
+Date: 01/05/18
+Desc: Calculates the area and perimeter of a circle
+"""
+
 #display a welcome message
 print('Welcome to the Circle Calculator!')
 
