@@ -1,7 +1,7 @@
 """
 Prog:   rectCalc.py
-Name:   Student Name
-Date:   12/03/18
+Name:   Isabella Holloway
+Date:   01/05/18
 Desc:   Calculates the area and perimeter of a rectangle.
 """
 
